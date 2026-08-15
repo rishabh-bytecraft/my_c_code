@@ -8,7 +8,7 @@ int main() {
     // Single line comment
     /* Multi-line
        comment */
-    printf("Hello, World!\n");
+    printf("Hello, Rishabh!\n");
     printf("Welcome to C Programming.\n");
     return 0;
 }
